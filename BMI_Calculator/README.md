@@ -26,5 +26,12 @@ This is a simple Python BMI Calculator that calculates a user's Body Mass Index 
 - Overweight : BMI 25 - 29.9
 - Obese : BMI ≥ 30
 
-## 👩‍💻 Author
-Neha
+
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Thank you for visiting this repository! 🚀
